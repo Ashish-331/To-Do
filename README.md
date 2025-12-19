@@ -14,7 +14,7 @@ A simple and clean to-do list web application built using HTML, CSS, and JavaScr
 - JavaScript
 
 ## Live Demo
-https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/
+https://ashish-331.github.io/To-Do/
 
 ## Credits
 Based on an original reference project.  
