@@ -1,11 +1,21 @@
-# To-Do List
-Greeting !!
-It is a Simple to-do list web app buit with HTMl,CSS and JavaScript.
+# To-Do List App
 
-## FEATURES
-->Add Tasks.
-->Mark Tasks As complete.
-->Simple UI.
+A simple and clean to-do list web application built using HTML, CSS, and JavaScript.
 
-#Credits
-Based on an original project .Understood,Modified and Deployed by Ashish Singh
+## Features
+- Add new tasks
+- Mark tasks as completed
+- Simple and user-friendly UI
+- Task persistence using browser localStorage
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Live Demo
+https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/
+
+## Credits
+Based on an original reference project.  
+Understood, modified, and deployed by **Ashish Singh**.
